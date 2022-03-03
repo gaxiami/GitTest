@@ -107,6 +107,7 @@ add func2
         }
     }
 }
+fun4
 
 
 
